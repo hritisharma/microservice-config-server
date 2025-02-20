@@ -1,0 +1,4 @@
+spring:
+ application:
+  name: CONGIG_SERVER
+  
